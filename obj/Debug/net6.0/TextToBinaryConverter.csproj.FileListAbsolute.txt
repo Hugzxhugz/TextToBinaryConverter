@@ -1,0 +1,15 @@
+C:\Users\james\RiderProjects\TextToBinaryConverter\TextToBinaryConverter\bin\Debug\net6.0\TextToBinaryConverter.exe
+C:\Users\james\RiderProjects\TextToBinaryConverter\TextToBinaryConverter\bin\Debug\net6.0\TextToBinaryConverter.deps.json
+C:\Users\james\RiderProjects\TextToBinaryConverter\TextToBinaryConverter\bin\Debug\net6.0\TextToBinaryConverter.runtimeconfig.json
+C:\Users\james\RiderProjects\TextToBinaryConverter\TextToBinaryConverter\bin\Debug\net6.0\TextToBinaryConverter.dll
+C:\Users\james\RiderProjects\TextToBinaryConverter\TextToBinaryConverter\bin\Debug\net6.0\TextToBinaryConverter.pdb
+C:\Users\james\RiderProjects\TextToBinaryConverter\TextToBinaryConverter\obj\Debug\net6.0\TextToBinaryConverter.csproj.AssemblyReference.cache
+C:\Users\james\RiderProjects\TextToBinaryConverter\TextToBinaryConverter\obj\Debug\net6.0\TextToBinaryConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\RiderProjects\TextToBinaryConverter\TextToBinaryConverter\obj\Debug\net6.0\TextToBinaryConverter.AssemblyInfoInputs.cache
+C:\Users\james\RiderProjects\TextToBinaryConverter\TextToBinaryConverter\obj\Debug\net6.0\TextToBinaryConverter.AssemblyInfo.cs
+C:\Users\james\RiderProjects\TextToBinaryConverter\TextToBinaryConverter\obj\Debug\net6.0\TextToBinaryConverter.csproj.CoreCompileInputs.cache
+C:\Users\james\RiderProjects\TextToBinaryConverter\TextToBinaryConverter\obj\Debug\net6.0\TextToBinaryConverter.dll
+C:\Users\james\RiderProjects\TextToBinaryConverter\TextToBinaryConverter\obj\Debug\net6.0\refint\TextToBinaryConverter.dll
+C:\Users\james\RiderProjects\TextToBinaryConverter\TextToBinaryConverter\obj\Debug\net6.0\TextToBinaryConverter.pdb
+C:\Users\james\RiderProjects\TextToBinaryConverter\TextToBinaryConverter\obj\Debug\net6.0\TextToBinaryConverter.genruntimeconfig.cache
+C:\Users\james\RiderProjects\TextToBinaryConverter\TextToBinaryConverter\obj\Debug\net6.0\ref\TextToBinaryConverter.dll
